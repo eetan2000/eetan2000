@@ -18,20 +18,18 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
-    <a> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
 <br/>
 
 <p align="center">
-    <a>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=eetan2000&theme=radical"/>
-    </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eetan2000&theme=radical"/>
 </p>
