@@ -32,8 +32,3 @@
 
 <br/>
 
-<p align="center">
-    <a>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=eetan2000&theme=radical"/>
-    </a>
-</p>
