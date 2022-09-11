@@ -19,10 +19,12 @@
 
 <p align="left"> 
     <a pointer-events:none> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a> <img src="https://img.icons8.com/office/16/000000/react.png"/> </a>
+    <a> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
     <a> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
     <a> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
