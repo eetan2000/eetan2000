@@ -28,6 +28,7 @@
     <a> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
     <a> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a> <img src="https://img.icons8.com/color/48/000000/haskell.png"/> </a>
 </p>
 
 <br/>
