@@ -29,6 +29,7 @@
     <a> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
     <a> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/000000/haskell.png"/> </a>
+    <img src="https://img.icons8.com/offices/30/000000/php-logo.png"/>
 </p>
 
 <br/>
