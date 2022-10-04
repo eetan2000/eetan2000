@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="350px" src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif" /></a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ee</h1>
-<h3 align="center">I am a computer science student at SFU. I am pursuing a career in software development and I like creating projects using Java.</h3>
+<h3 align="center">I am a computer science student at SFU. I am pursuing a career in software development and I like creating projects using ReactJS and Java.</h3>
 
 <br/>
 
