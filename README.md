@@ -19,19 +19,18 @@
 
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-    <a> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a> <img src="https://img.icons8.com/plasticine/50/000000/react.png"/> </a>
-    <a> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
-    <a> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
-    <a> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a> <img src="https://img.icons8.com/color/48/000000/haskell.png"/> </a>
-    <a> <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-PHP-programming-and-development-those-icons-flat-those-icons.png"/> </a>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img src="https://img.icons8.com/color/48/000000/haskell.png"/>
+    <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-PHP-programming-and-development-those-icons-flat-those-icons.png"/>
     <img src="https://img.icons8.com/color/48/null/angularjs.png"/>
-</p>
 
 <br/>
 
