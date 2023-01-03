@@ -18,7 +18,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a pointer-events:none> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
     <a> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a> <img src="https://img.icons8.com/plasticine/50/000000/react.png"/> </a>
