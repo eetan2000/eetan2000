@@ -30,6 +30,7 @@
     <a> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/000000/haskell.png"/> </a>
     <a> <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-PHP-programming-and-development-those-icons-flat-those-icons.png"/> </a>
+    <img src="https://img.icons8.com/color/48/null/angularjs.png"/>
 </p>
 
 <br/>
